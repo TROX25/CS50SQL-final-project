@@ -22,3 +22,7 @@ VALUES
 (3, 3, 15.0, 'Budynek B', 'Podłoga1', -1), -- 15 m³ styropianu
 (4, 4, 42.0, 'Budynek A', 'Ściana3', 2);   -- 42 m² płyt g-k
 
+
+SELECT * FROM "VIEW_TakeOff_Total_Costs";
+
+SELECT * FROM "Total_Take_Off";
